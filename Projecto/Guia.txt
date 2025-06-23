@@ -1,0 +1,5 @@
+La totalidad del proyecto será subida acá
+
+ATENCIÓN !!!
+- Según leí github no puede fusionar/actualizar los proyectos de Construct 2, así que quizás lo que vamos a tener que hacer es descargar la última versión del proyecto y copiar a mano cada cambio
+Esto es en el caso de que el proyecto local de cada uno sea diferente a la última versión subida al repositorio

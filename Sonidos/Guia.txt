@@ -1,0 +1,3 @@
+Acá se van a subir todos las pistas de sonido que se utilizaron en el proyecto, sea de ejemplo o final
+- Sonidos SFX
+- Música

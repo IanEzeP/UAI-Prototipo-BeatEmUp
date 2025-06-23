@@ -1,0 +1,5 @@
+Dejar en este espacio:
+- Fondos
+- Diseños de personajes
+- Animaciones
+- Sprites (objetos, enemigos, etc.)
